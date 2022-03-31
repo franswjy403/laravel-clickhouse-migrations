@@ -1,6 +1,6 @@
 {
-    "name": "alexeykhr/laravel-clickhouse-migrations",
-    "description": "Clickhouse migrations for Laravel",
+    "name": "franswjy403/laravel-clickhouse-migrations",
+    "description": "Clickhouse migrations for Laravel. The original version can be accessed here: alexeykhr/laravel-clickhouse-migrations",
     "keywords": [
         "clickhouse",
         "migrations",
@@ -9,11 +9,11 @@
         "library"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/alexeykhr/laravel-clickhouse-migrations",
+    "homepage": "https://github.com/franswjy403/laravel-clickhouse-migrations",
     "authors": [
         {
-            "name": "Alexey Khrushch",
-            "email": "alexeykhr@outlook.com"
+            "name": "Frans Wijaya",
+            "email": "franswijaya403@gmail.com"
         }
     ],
     "require": {
